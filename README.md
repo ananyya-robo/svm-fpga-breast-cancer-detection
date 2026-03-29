@@ -1,7 +1,13 @@
-# svm-fpga-breast-cancer-detection
-FPGA-based implementation of a linear SVM model for real-time breast cancer diagnosis, optimized using feature selection and approximate hardware design to reduce computational complexity (14% reduction) while maintaining high accuracy (~96%).
+# FPGA-Based Breast Cancer Diagnosis Using SVM
 
-## Tech Used
-- Verilog
-- FPGA
-- Machine Learning (SVM)
+## Overview
+This project implements a Linear SVM model on FPGA for real-time breast cancer detection.
+
+## Features
+- Hardware-based ML implementation
+- Optimized using feature selection
+- Achieves ~96% accuracy
+
+## Files
+- /src → Verilog code
+- /docs → Research paper
